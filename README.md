@@ -8,4 +8,4 @@
 - tg: @SocialMoods
 - vk: @reokurkov
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SocialMoods&layout=compact&theme=react" width=40%>
+[![SocialMoods's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocialMoods)](https://github.com/anuraghazra/github-readme-stats)
