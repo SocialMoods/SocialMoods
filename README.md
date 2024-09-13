@@ -8,4 +8,4 @@
 - tg: @SocialMoods
 - vk: @reokurkov
 
-[![SocialMoods's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocialMoods)](https://github.com/anuraghazra/github-readme-stats)
+[![SocialMoods's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocialMoods&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
