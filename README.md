@@ -4,7 +4,8 @@
 Я - начинающий Java разработчик.
 Конкретная сферв моей деятельности - Разработка Minecraft плагинов на Nukkit.
 
-Я делаю не только публичные проекты, но и проекты на заказ, подробнее в соц сетях.
-
+За заказом плагина можно обратиться:
 - tg: @SocialMoods
 - vk: @reokurkov
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SocialMoods&layout=compact&theme=react" width=40%>
