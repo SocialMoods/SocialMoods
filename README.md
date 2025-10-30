@@ -1,17 +1,12 @@
-Привет!👋
-Меня зовут Никита, мой никнейм - SocialMoods.
+**Hi there! I'm SocialMoods.**
 
-Я - разработчик среднего уровня.
+A mid-level developer with a focus on backend systems and Minecraft server plugins.
 
-Мои характеристики:
-- Опыт: больше 10 месяцев.
-- Имею опыт работы с БД, знаю API Nukkit-MOT как свои пять пальцев.
-- Обладаю высокими познаниями в ООП Java.
-- Разбираюсь в кастомных блоках, мобах ии, моделях. Могу создавать ресурспаки.
-- Имею опыт работы с большими проектами (мини игры) и более мелкими проектами.
+**Core Skills & Experience:**
+*   **1.5 Years** of hands-on development experience.
+*   Building **high-load systems** and designing robust **architecture**.
+*   Expertise in **Java** (including memory management), **OOP**, **Spring**, and **JOOQ**.
+*   Deep knowledge of the **Nukkit API** for Minecraft server development.
 
-За заказом плагина можно обратиться:
-- tg: @SocialMoods
-- vk: @reokurkov
-
-[![SocialMoods's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocialMoods&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+**Let's Connect!**
+[Contact me on Telegram](https://t.me/socialmoods)
