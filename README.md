@@ -1,12 +1,20 @@
-**Hi there! I'm SocialMoods.**
+**Hi there! I'm SocialMoods.**  
 
-A mid-level developer with a focus on backend systems and Minecraft server plugins.
+A mid-level developer with a focus on Minecraft server plugins.  
 
-**Core Skills & Experience:**
-*   **1.5 Years** of hands-on development experience.
-*   Building **high-load systems** and designing robust **architecture**.
-*   Expertise in **Java** (including memory management), **OOP**, **Spring**, and **JOOQ**.
-*   Deep knowledge of the **Nukkit API** for Minecraft server development.
+---
 
-**Let's Connect!**
+**Core Skills & Experience:**  
+- **2 years** of development experience.  
+- Deep expertise in **Java**, **asynchronous design and programming**.  
+- Extensive experience with **Nukkit API** and **Lumi** ([GitHub](https://github.com/KoshakMineDev/Lumi)).  
+- Skilled in building inter‑server architectures.  
+
+**Projects:**  
+- Developer of **LuxTime** — a Minecraft project.  
+  [Check it out on Telegram](https://t.me/luxtimeMcbe)  
+
+---
+
+**Let's Connect**  
 [Contact me on Telegram](https://t.me/socialmoods)
