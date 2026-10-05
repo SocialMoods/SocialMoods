@@ -9,6 +9,7 @@ A mid-level developer with a focus on Minecraft server plugins.
 - Deep expertise in **Java**, **asynchronous design and programming**.  
 - Extensive experience with **Nukkit API** and **Lumi** ([GitHub](https://github.com/KoshakMineDev/Lumi)).  
 - Skilled in building inter‑server architectures.  
+- Expertise and Minecraft Bedrock Protocol and movement physics (developer of an AntiCheat system on Lumi/Nukkit) 
 
 **Projects:**  
 - Developer of **LuxTime** — a Minecraft project.  
